@@ -1,6 +1,6 @@
 # COMANDOS BÁSICOS DE GIT
 # Taller – Git & GitHub (flujo individual, sin ramas)
-Nombre: Osvaldo Marin 
+Nombre: Osvaldo Marin Neri
 Matrícula: 2242041507
 
 ====================================================================
